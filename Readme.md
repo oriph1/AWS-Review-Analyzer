@@ -1,4 +1,4 @@
-# **DistributedSystems Assigment1**
+# **AWS Review Analyzer**
 
 ## Introduction
 This project is about implementing a real-world application to distributively process a list of amazon
