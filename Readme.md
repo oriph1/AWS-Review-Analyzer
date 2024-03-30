@@ -7,7 +7,8 @@ reviews. We used the aws services such as: S3, EC2, AMI and SQS for implementing
 ## Project structure
 
 This diagram represents the structure of the project and the flow of the data in the system:
-![Diagram](C:\Users\OriHayoon\IdeaProjects\DistributedSystems_Assigment1\Readme Images\Archi.jpg)
+![Di![Archi](https://github.com/oriph1/AWS-Review-Analyzer/assets/129746935/f40b7a9e-b8c4-45d4-82e2-0a647e61100b)
+agram]
 (if the picture is not loading, you can look at the folder ReadMe images. The picture of the architacture is there)
 
 **Explanation:**
